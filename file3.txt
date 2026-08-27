@@ -1,1 +1,2 @@
 this is file3
+I'm adding to file3
